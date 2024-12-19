@@ -29,7 +29,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Mortgage-Calculator.git
+    git clone https://github.com/abhishekboadgurjar/Mortgage-Calculator.git
     ```
 
 2. **Open the project directory**:
@@ -50,7 +50,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Mortgage Calculator project [here](https://abhishekgurjar-in.github.io/Mortgage-Calculator/).
+You can check out the live demo of the Mortgage Calculator project [here](https://abhishekboadgurjar.github.io/Mortgage-Calculator/).
 ## Screenshots
 
 ![Screenshot 2024-08-30 222127](https://github.com/user-attachments/assets/ef11721e-213a-43dd-8f56-3d41cb2c6f97)
@@ -66,4 +66,4 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
